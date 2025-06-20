@@ -1,8 +1,19 @@
 {
     "files.associations": {
+<<<<<<< HEAD
         "exception": "cpp",
         "memory": "cpp",
         "initializer_list": "cpp",
+=======
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "xstring": "cpp",
+        "list": "cpp",
+        "FORMAT SPECIFIER.C": "cpp",
+        "memory": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp",
+>>>>>>> 36f00768ceb0c8db1416d8503f3658d6f5d46764
         "atomic": "cpp",
         "bit": "cpp",
         "cctype": "cpp",
@@ -18,16 +29,28 @@
         "cstring": "cpp",
         "ctime": "cpp",
         "cwchar": "cpp",
+<<<<<<< HEAD
         "format": "cpp",
         "ios": "cpp",
         "iosfwd": "cpp",
         "iostream": "cpp",
+=======
+        "exception": "cpp",
+        "format": "cpp",
+        "initializer_list": "cpp",
+        "ios": "cpp",
+        "iosfwd": "cpp",
+>>>>>>> 36f00768ceb0c8db1416d8503f3658d6f5d46764
         "istream": "cpp",
         "iterator": "cpp",
         "limits": "cpp",
         "locale": "cpp",
         "new": "cpp",
+<<<<<<< HEAD
         "ostream": "cpp",
+=======
+        "optional": "cpp",
+>>>>>>> 36f00768ceb0c8db1416d8503f3658d6f5d46764
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "string": "cpp",
@@ -36,7 +59,10 @@
         "type_traits": "cpp",
         "typeinfo": "cpp",
         "utility": "cpp",
+<<<<<<< HEAD
         "vector": "cpp",
+=======
+>>>>>>> 36f00768ceb0c8db1416d8503f3658d6f5d46764
         "xfacet": "cpp",
         "xiosbase": "cpp",
         "xlocale": "cpp",
@@ -47,10 +73,16 @@
         "xlocnum": "cpp",
         "xloctime": "cpp",
         "xmemory": "cpp",
+<<<<<<< HEAD
         "xstring": "cpp",
         "xtr1common": "cpp",
         "xutility": "cpp",
         "mutex": "cpp",
         "semaphore": "cpp"
+=======
+        "xtr1common": "cpp",
+        "xutility": "cpp",
+        "functional": "cpp"
+>>>>>>> 36f00768ceb0c8db1416d8503f3658d6f5d46764
     }
 }
